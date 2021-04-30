@@ -134,4 +134,10 @@ p {
     grid-column: 2;
     grid-row: 4;
   }
+
+  h1 {
+    padding-top: 30%;
+    display: ruby;
+    font-size: initial;
+  }
 }
